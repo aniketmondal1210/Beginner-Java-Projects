@@ -1,0 +1,26 @@
+[
+    {
+        "Name": "John Doe",
+        "Age": "30",
+        "Salary": "50000",
+        "Department": "IT"
+    },
+    {
+        "Name": "Jane Smith",
+        "Age": "25",
+        "Salary": "60000",
+        "Department": "HR"
+    },
+    {
+        "Name": "Alice Johnson",
+        "Age": "35",
+        "Salary": "75000",
+        "Department": "Finance"
+    },
+    {
+        "Name": "Bob Brown",
+        "Age": "40",
+        "Salary": "80000",
+        "Department": "Marketing"
+    }
+]
